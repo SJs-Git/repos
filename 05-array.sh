@@ -15,7 +15,7 @@ echo "Can I know which fruit you like the most?"
 
 read $FRUITS
 
-echo "${FRUITS[5]} is my favourite fruit."
+echo "${FRUITS[4]} is my favourite fruit."
 
 
 echo "Oh, great!!"
