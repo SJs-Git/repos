@@ -8,7 +8,7 @@
 echo "Hi there, Please enter your name:"
 
 read NAME 
-echo "Hi  NAME How are you doing"
+echo "Hi  $NAME How are you doing"
 echo "I am doing good too. Thank you!"
 
 
@@ -16,7 +16,7 @@ echo "Can I know which fruit you like the most?"
 
 read FRUIT 
 
-echo "FRUIT is my favourite fruit."
+echo "$FRUIT is my favourite fruit."
 
 
 echo "Oh, great!!"
